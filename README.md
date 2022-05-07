@@ -50,7 +50,6 @@ Lembrando que será necessário configurar e rodar o [Servidor](https://github.c
 
 Não necessário para rodar, mas caso queira ver o projeto [Web](https://github.com/Jonathan-Rios/nlw-return-widback-web.git) 
 
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
