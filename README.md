@@ -44,7 +44,7 @@ $ npm install
 # Iniciar o projeto
 $ npm run start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+Será necessário emular, ou usar um dispositivo físico e parear com o Expo usando [Expo Go](https://expo.dev/client)
 
 Lembrando que será necessário configurar e rodar o [Servidor](https://link/) para ver o funcionamento completo.
 
