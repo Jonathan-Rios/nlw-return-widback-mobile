@@ -1,0 +1,40 @@
+➜ expo init mobile
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   There is a new version of expo-cli available (5.4.3).                 │
+│   You are currently using expo-cli 5.3.1                                │
+│   Install expo-cli globally using the package manager of your choice;   │
+│   for example: `npm install -g expo-cli` to get the latest version      │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+✔ Choose a template: › blank (TypeScript)  same as blank but with TypeScript configuration
+
+//Instalei o plugin feito pela rocket "rcomponent" no VSCode ( permite usar snippets rnbc rnso)
+
+//Instalando fontes
+expo install expo-font @expo-google-fonts/inter
+
+//Verifica se está carregando a fonte
+➜ expo install expo-app-loading
+
+//Ícones utilizados no projeto
+➜ npm i phosphor-react-native 
+➜ expo i react-native-svg
+
+//Auxiliar bottom spaces dos iphones.
+➜ npm install react-native-iphone-x-helper
+
+➜ expo install @gorhom/bottom-sheet@^4
+
+➜ expo install react-native-reanimated 
+//Adicionar em babel.config.js:    plugins: ['react-native-reanimated/plugin']
+
+
+➜ expo install react-native-gesture-handler
+//Adicione no começo do App.tsx: import 'react-native-gesture-handler';
+ 
+➜ expo install react-native-view-shot //Tirar fotos da tela
+
+➜ npm install axios
+
+➜ expo install expo-file-system //conversão de arquivo
