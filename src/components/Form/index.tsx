@@ -88,7 +88,7 @@ export function Form({
       </View>
 
       <TextInput
-        multiline
+        multiline={true}
         style={styles.input}
         placeholder={feedbackTypeInfo.placeholder}
         placeholderTextColor={theme.colors.text_secondary}
