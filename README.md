@@ -46,7 +46,10 @@ $ npm run start
 ```
 Será necessário emular, ou usar um dispositivo físico e parear com o Expo usando [Expo Go](https://expo.dev/client)
 
-Lembrando que será necessário configurar e rodar o [Servidor](https://link/) para ver o funcionamento completo.
+Lembrando que será necessário configurar e rodar o [Servidor](https://github.com/Jonathan-Rios/nlw-return-widback-server) para ver o funcionamento completo.
+
+Não necessário para rodar, mas caso queira ver o projeto [Web](https://github.com/Jonathan-Rios/nlw-return-widback-web.git) 
+
 
 ## 🔖 Layout
 
